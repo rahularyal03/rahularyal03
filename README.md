@@ -22,7 +22,7 @@ I’m a passionate software engineer who loves designing efficient systems, opti
   <img src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Razorpay-377EF0?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
