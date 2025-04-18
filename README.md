@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=rahularyal03&color=fb4362)
 
 🎯 Backend Developer | ⚡ Performance Optimizer | 💬 AI Chat System Architect
 
