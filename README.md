@@ -42,21 +42,11 @@ I once implemented a Redis-powered custom domain service for multi-tenant SaaS i
 
 ---
 
-### ☕ Buy Me a Coffee
-
-If my work or repos helped you out — or if you just think I deserve a warm drink — you can support me here:
-
-<a href="https://www.buymeacoffee.com/cycosad" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
-</a>
-
----
-
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahularyal03&theme=dark&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Rahul Aryal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Rahul Aryal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahularyal03&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ---
 
